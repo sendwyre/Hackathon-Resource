@@ -1,0 +1,91 @@
+{
+  "id": "AC-XZ4XMR2R6GL",
+  "status": "APPROVED",
+  "type": "INDIVIDUAL",
+  "country": "US",
+  "createdAt": 1548256854000,
+  "depositAddresses": {
+    "ETH": "0xfa6f2a0c659316b94be5d93872b3f39ec38b1147" // DAI, WETH, ETH - All received at this address.
+    "BTC": "mwXxZZFGUqLa3gVHpgPKSsespZKPkqaKtX" // BTC Only
+  },
+  
+// Balance inclusive of transaction which may be pending. E.g. An ACH transfer being completed, or an on-chain transaction waiting for sufficient confirmations.
+
+  "totalBalances": {
+    "USD": 1000
+  },
+  
+// What you can spend now.
+  "availableBalances": {
+    "USD": 1000
+  },
+// The account fields and their status'
+
+  "profileFields": [
+    {
+      "fieldId": "individualCellphoneNumber",
+      "fieldType": "CELLPHONE",
+      "value": "+1111111111",
+      "note": null,
+      "status": "APPROVED"
+    },
+    {
+      "fieldId": "individualEmail",
+      "fieldType": "EMAIL",
+      "value": "hackathonCoinlist@sendwyre.com",
+      "note": null,
+      "status": "APPROVED"
+    },
+    {
+      "fieldId": "individualLegalName",
+      "fieldType": "STRING",
+      "value": "Coinlist Hackathon",
+      "note": null,
+      "status": "APPROVED"
+    },
+    {
+      "fieldId": "individualSsn",
+      "fieldType": "STRING",
+      "value": "REDACTED",
+      "note": null,
+      "status": "APPROVED"
+    },
+    {
+      "fieldId": "individualDateOfBirth",
+      "fieldType": "DATE",
+      "value": "1980-02-02",
+      "note": null,
+      "status": "APPROVED"
+    },
+    {
+      "fieldId": "individualResidenceAddress",
+      "fieldType": "ADDRESS",
+      "value": {
+        "street1": "1550 Bryant St",
+        "street2": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "postalCode": "94103",
+        "country": "US"
+      },
+      "note": null,
+      "status": "APPROVED"
+    },
+    {
+      "fieldId": "individualGovernmentId",
+      "fieldType": "DOCUMENT",
+      "value": [
+        "DO-TGV97LFMW9E"
+      ],
+      "note": null,
+      "status": "APPROVED"
+    },
+    {
+      "fieldId": "individualSourceOfFunds",
+      "fieldType": "PAYMENT_METHOD",
+      "value": null,
+      "note": null,
+      "status": "APPROVED"
+    }
+  ]
+}
