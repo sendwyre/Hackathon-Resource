@@ -1,0 +1,36 @@
+{
+  "id": "PA-M6YW788BCWN",
+  "owner": "account:AC-XZ4XMR2R6GL",
+  "createdAt": 1548262133744,
+  "name": "Plaid Saving 1111",
+  "defaultCurrency": "USD",
+  "status": "PENDING",
+  "statusMessage": null,
+  "waitingPrompts": [],
+  "linkType": "LOCAL_TRANSFER",
+  "beneficiaryType": "UNKNOWN",
+  "supportsDeposit": true,
+  "nameOnMethod": null,
+  "last4Digits": "1111",
+  "brand": null,
+  "expirationDisplay": null,
+  "countryCode": "US",
+  "nickname": null,
+  "rejectionMessage": null,
+  "disabled": false,
+  "supportsPayment": true,
+  "chargeableCurrencies": [
+    "USD"
+  ],
+  "depositableCurrencies": [
+    "USD"
+  ],
+  "chargeFeeSchedule": null,
+  "depositFeeSchedule": null,
+  "minCharge": null,
+  "maxCharge": null,
+  "minDeposit": null,
+  "maxDeposit": null,
+  "documents": [],
+  "srn": "paymentmethod:PA-M6YW788BCWN"
+}
