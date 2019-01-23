@@ -9,6 +9,10 @@ Hackathon resources to get started with the Wyre API as fast as possible.
 
 * Ethereum - Kovan.
 
+* Widget Onramp - [Metamask-Quickstart](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for web3 enabled users.
+
+* Widget Onramp - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach 
+
 * If you're awaiting account verification, reach out directly via Intercom, or email us (support@sendwyre.com).
 
 * We're currently upgrading from v2 to v3 of our API. **Payment Methods are still on v2.**
@@ -26,16 +30,6 @@ Hackathon resources to get started with the Wyre API as fast as possible.
 
 
 ## Hackathon Example
-
-**Tools From Wyre**
-
-- Widget Onramp - [Metamask-Quickstart](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart).
-
-Fiat on/off ramp for web3 enabled users.
-
-- Widget Onramp - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart).
-
-Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach 
 
 In this example, we're going to do the following.
 
