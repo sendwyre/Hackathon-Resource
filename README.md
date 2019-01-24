@@ -9,6 +9,10 @@ Hackathon resources to get started with the Wyre API as fast as possible.
 
 * Ethereum - Kovan.
 
+* [4 step process for adding compliant liquidity to your 0x relayer.](https://blog.goodaudience.com/sendwyre-on-chain-kyc-integration-for-0x-based-exchanges-in-4-steps-15946cfb85b5)
+
+* [Selecting liquidity partners - Factors to consider when working with liquidity providers](https://blog.sendwyre.com/assessing-counter-party-risk-in-the-blockchain-space-d88292986d9)
+
 * Widget Onramp - [Metamask-Quickstart](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for web3 enabled users.
 
 * Widget Onramp - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach 
