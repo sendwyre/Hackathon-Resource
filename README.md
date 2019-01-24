@@ -1,39 +1,40 @@
-# Hackathon-Resources
+- [Hackathon-Resources](#hackathon-resources)
+  - [Wyre API FAQ](#wyre-api-faq)
+  
+  - [Hackathon Example](#🏆hackathon-example-fiat-On/Off-Ramps-🏆)
+  
+    -[🔐 Getting Keys & Where To Find Us 🔐](https://github.com/sendwyre/Hackathon-Resource/edit/master/README.md)
+    
+    -[🏗 First Authenticated API Request - GET/accounts 🏗](#-first-authenticated-api-request---getaccounts-)
+    
+    -[🏦Connect Bank Account - POST/paymentMethods 🏦](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#connect-bank-account---postpaymentmethods-)
+    
+   - [Get Support From Wyre](#wyre-api-faq)
+
+# Wyre API FAQ
 Hackathon resources to get started with the Wyre API as fast as possible.
 
 * Sandbox Environment is [here](https://www.testwyre.com/sign-up).
 
 * Test keys are different from prod keys. Testwyre accounts are different to SendWyre.com
+ * Bitcoin - testnet3.
+ * Ethereum - Kovan.
 
-* Bitcoin - testnet3.
+* 0x Compliant Liquidity Integration - [4 step process for adding it to your 0x relayer.](https://blog.goodaudience.com/sendwyre-on-chain-kyc-integration-for-0x-based-exchanges-in-4-steps-15946cfb85b5)
 
-* Ethereum - Kovan.
-
-* [4 step process for adding compliant liquidity to your 0x relayer.](https://blog.goodaudience.com/sendwyre-on-chain-kyc-integration-for-0x-based-exchanges-in-4-steps-15946cfb85b5)
-
-* [Selecting liquidity partners - Factors to consider when working with liquidity providers](https://blog.sendwyre.com/assessing-counter-party-risk-in-the-blockchain-space-d88292986d9)
+* How do we evaluate liquidity sources for Wyre - [Assessing Counterparty Risk - Factors to consider.](https://blog.sendwyre.com/assessing-counter-party-risk-in-the-blockchain-space-d88292986d9).
 
 * Widget Onramp - [Metamask-Quickstart](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for web3 enabled users.
 
-* Widget Onramp - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach 
+* Widget Onramp - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach
+
+* Whitelabel API - [Your brand, our engine](https://beta-docs.sendwyre.com/docs/supported-currencies).
 
 * If you're awaiting account verification, reach out directly via Intercom, or email us (support@sendwyre.com).
 
 * We're currently upgrading from v2 to v3 of our API. **Payment Methods are still on v2.**
 
-* Getting in touch with us
-- Intercom chat - On our site.
-
-- Discord chat - https://sendwyre.com/discord
-
-- Email support@sendwyre.com
-
-- Twitter @sendwyre
-
-- Call us - (415)-374-7356.
-
-
-## Hackathon Example
+## 🏆 Hackathon Example - Fiat On/Off Ramps 🏆
 
 In this example, we're going to do the following.
 
@@ -42,7 +43,7 @@ In this example, we're going to do the following.
 - Debit their bank $100 US Dollars and pay it into their non-custodial wallet.
 - Convert funds between various currencies.
 
-
+If you can do that, you've basically got the tools to tackle a ton of use-cases. Whether it's market making centralized liquidity into decentralized liquidity for arbitrage, or a lightweight compliance verification tool, you're likely covered.
 
 ## 🔐 Getting Keys & Where To Find Us 🔐
 
@@ -375,4 +376,43 @@ There's a number of really helpful paraemeters that you can include in a transfe
 ```
 There's various states that a transaction goes through, and you can always use the transferId. Mine is `TF-LJZA3RXC6UA`. Another neat thing for people is our "UPS Tracker" - Watch the transfer or share it with others, etc... Have a look at mine [here](https://www.testwyre.com/track/TF-LJZA3RXC6UA).
 
-Hopefully
+# Get Support From Our Team
+
+* 📟 Intercom - Https://www.sendwyre.com
+
+* 📞 Phone - +1(415)374-7356
+
+* 📩 Email - support@sendwyre.com
+
+* 🗣 Twitter - https://twitter.com/@sendwyre
+
+* 📝 Medium - https://medium.com/@wyre
+
+* 💬 Discord - https://www.sendwyre.com/discord
+
+# Concluding tl;dr
+
+If you're still here, congrats for making it this far! Here's what you've learned:
+- You know how to contact us if you have a problem!
+
+- You can now debit/credit fiat to crypto.
+
+- You can implement it for non-crypto users.
+
+- You can whitelabel our API if you're more about that.
+
+- We work hard, and want you to get to market for as little time & money as possible.
+
+- If we can't solve your problem, we'll help share our knowledge of who could.
+
+- Build cool shit.
+
+Hopefully this has given you a healthy high level on the API, and what areas of it you think appeal most to you and your team. It really is quite simple, and our engineering team are always grinding to make the most extensible & secure platform for our partners.
+
+The ideal outcome is that you can get your idea to market as fast as possible. Iterate on it if needed, and keep going. The regulatory landscape is complex and evolving, so it's a constant expectation that you remain current. That's a lot of expectations to put on teams that aren't specialists. Handle it later on in-house, but short-term, validate your idea and product market fit first.
+
+If Wyre's not for you, all good! Let us know and it's likely that we're able to point you in the right direction. We all get a positive net gain if there's more teams pushing new ideas as rapidly as possible.
+
+🚢 🚀 🏗
+
+*Feedback is 100% appreciated, or if you're interested in working directly with our team, we're always [hiring](https://www.angel.co/sendwyre/jobs)!*
