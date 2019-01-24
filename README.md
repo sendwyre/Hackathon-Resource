@@ -9,7 +9,7 @@
     
     -[🏦Connect Bank Account - POST/paymentMethods 🏦](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#connect-bank-account---postpaymentmethods-)
     
-   - [Get Support From Wyre](#wyre-api-faq)
+   - [Get Support From Wyre](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#get-support-from-our-team)
 
 # Wyre API FAQ
 Hackathon resources to get started with the Wyre API as fast as possible.
