@@ -3,11 +3,11 @@
   
   - [Hackathon Example](#🏆hackathon-example-fiat-On/Off-Ramps-🏆)
   
-    -[🔐 Getting Keys & Where To Find Us 🔐](https://github.com/sendwyre/Hackathon-Resource/edit/master/README.md)
+     [🔐 Getting Keys & Where To Find Us 🔐](https://github.com/sendwyre/Hackathon-Resource/edit/master/README.md)
     
-    -[🏗 First Authenticated API Request - GET/accounts 🏗](#-first-authenticated-api-request---getaccounts-)
+     [🏗 First Authenticated API Request - GET/accounts 🏗](#-first-authenticated-api-request---getaccounts-)
     
-    -[🏦Connect Bank Account - POST/paymentMethods 🏦](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#connect-bank-account---postpaymentmethods-)
+     [🏦Connect Bank Account - POST/paymentMethods 🏦](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#connect-bank-account---postpaymentmethods-)
     
    - [💡Get Support From Wyre💡](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#get-support-from-our-team)
 
