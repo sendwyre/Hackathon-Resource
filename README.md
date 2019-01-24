@@ -1,4 +1,4 @@
-- [Hackathon-Resources](#hackathon-resources)
+- Hackathon-Resources
   - [Wyre API FAQ](#wyre-api-faq)
   
   - [Hackathon Example](#🏆hackathon-example-fiat-On/Off-Ramps-🏆)
@@ -9,7 +9,7 @@
     
     -[🏦Connect Bank Account - POST/paymentMethods 🏦](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#connect-bank-account---postpaymentmethods-)
     
-   - [Get Support From Wyre](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#get-support-from-our-team)
+   - [💡Get Support From Wyre💡](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#get-support-from-our-team)
 
 # Wyre API FAQ
 Hackathon resources to get started with the Wyre API as fast as possible.
@@ -376,7 +376,7 @@ There's a number of really helpful paraemeters that you can include in a transfe
 ```
 There's various states that a transaction goes through, and you can always use the transferId. Mine is `TF-LJZA3RXC6UA`. Another neat thing for people is our "UPS Tracker" - Watch the transfer or share it with others, etc... Have a look at mine [here](https://www.testwyre.com/track/TF-LJZA3RXC6UA).
 
-# Get Support From Our Team
+# 💡Get Support From Our Team💡
 
 * 📟 Intercom - Https://www.sendwyre.com
 
