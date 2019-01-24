@@ -1,7 +1,7 @@
 - Hackathon-Resources
   - [Wyre API FAQ](#wyre-api-faq)
   
-  - [Hackathon Example](#🏆hackathon-example-fiat-On/Off-Ramps-🏆)
+  - [Hackathon Example](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#-hackathon-example---fiat-onoff-ramps-)
   
      [🔐 Getting Keys & Where To Find Us 🔐](https://github.com/sendwyre/Hackathon-Resource/edit/master/README.md)
     
