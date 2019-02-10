@@ -28,7 +28,7 @@ Hackathon resources to get started with the Wyre API as fast as possible.
 
 * Widget Onramp - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#device-token-on-ramp-quickstart). Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach
 
-* Whitelabel API - [Your brand, our engine](https://beta-docs.sendwyre.com/docs/supported-currencies).
+* Whitelabel API - [Your brand, our engine](https://www.npmjs.com/package/@wyre/api#install).
 
 * If you're awaiting account verification, reach out directly via Intercom, or email us (support@sendwyre.com).
 
@@ -109,7 +109,7 @@ If you can do that, you've basically got the tools to tackle a ton of use-cases.
     {
       "fieldId": "individualEmail",
       "fieldType": "EMAIL",
-      "value": "michael+coinlist@sendwyre.com",
+      "value": "michaelcoinlist@sendwyre.com",
       "note": null,
       "status": "APPROVED"
     },
