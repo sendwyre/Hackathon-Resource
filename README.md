@@ -24,9 +24,11 @@ Hackathon resources to get started with the Wyre API as fast as possible.
 
 * How do we evaluate liquidity sources for Wyre - [Assessing Counterparty Risk - Factors to consider.](https://blog.sendwyre.com/assessing-counter-party-risk-in-the-blockchain-space-d88292986d9).
 
-* Widget Onramp - [Metamask-Quickstart](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for web3 enabled users.
+* Widget - [Metamask-Quickstart](https://beta-docs.sendwyre.com/docs/widget-developer-guide#metamask-on-ramp-quickstart). Fiat on/off ramp for web3 enabled users.
 
-* Widget Onramp - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#device-token-on-ramp-quickstart). Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach
+* Widget - [Non-web3 users](https://beta-docs.sendwyre.com/docs/widget-developer-guide#device-token-on-ramp-quickstart). Fiat on/off ramp for both web3 and non-web3 enabled users. Can be used in incognito browsers, all mobile browsers, and still compatible for the web3 browsers wallets. Without additional software installation, helping our partners create sustainable businesses, and reach their total addressable market (beyond crypto).
+
+* *Accept Debit Cards - Early beta, if interested just [ask us!](https://github.com/sendwyre/Hackathon-Resource/blob/master/README.md#get-support-from-our-team)*
 
 * Whitelabel API - [Your brand, our engine](https://www.npmjs.com/package/@wyre/api#install).
 
