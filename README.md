@@ -171,11 +171,8 @@ If you can do that, you've basically got the tools to tackle a ton of use-cases.
 ```
 4) Cool. That's our account. Created, and mine looks like it's verified!
 
-When I created my account, I opted in to receive a [ERC-721](https://kovan.etherscan.io/tx/0x14305db9b7baa3c057300d679125ca08b038a49919634a649d9d7e7f3ffb7252) token to that wallet I control. This token acts similarly to a blue check mark on Twitter. It's a verified account, from a regulated MSB. It aims to minimize compliance overheads for new entrepreneurs, streamline UX, and put the users privacy/sensitivie information as the number one priority.
+Our standard account format has verified the required information to meet the standards from Fincen. Wyre is a registered MSB federally, as well as on a state by state level. Compliance is really hard, and resource intensive. Our hope is to share our hard work like a public utility for teams to get to market and iterate faster while avoiding the costs with legal opinions and compliance audits, etc.
 
-Our standard account format has verified the required information to meet the standards from Fincen. Wyre is a registered MSB federally, as well as on a state by state level. Compliance is really hard, and resource intensive. Our hope is to share our hard work like a public utility for teams to get to market and iterate faster while avoiding the costs with legal opinions and compliance audits, etc...
-
-More information on our ERC-721 initiative [here](https://blog.sendwyre.com/community-driven-on-chain-compliance-d334e0f5962b).
 
 ## 🏦Connect Bank Account - POST/paymentMethods 🏦
 
